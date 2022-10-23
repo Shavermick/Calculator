@@ -26,7 +26,7 @@ int main()
             cout << "Function in develop" << endl;
             break;
         case 3:
-            cout << "Function in develop" << endl;
+             cout << "Function Multiplication a = " << a << " and b = " << b << " Result: " << Multiplication(a,b) << endl;
             break;
         case 4:
             cout << "Function in develop" << endl;
