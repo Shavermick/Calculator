@@ -29,7 +29,7 @@ int main()
              cout << "Function Multiplication a = " << a << " and b = " << b << " Result: " << Multiplication(a,b) << endl;
             break;
         case 4:
-            cout << "Function in develop" << endl;
+            cout << "Function Division a = " << a << " and b = " << b << " Result: " << Division(a,b) << endl;
             break;
         default:
             cout << "You selected a non-existent menu!" << endl;
