@@ -23,7 +23,7 @@ int main()
              cout << "Function Addition a = " << a << " and b = " << b << " Result: " << Addition(a,b) << endl;
             break;
         case 2:
-            cout << "Function in develop" << endl;
+            cout << "Function Subtraction a = " << a << " and b = " << b << " Result: " << Subtraction(a,b) << endl;
             break;
         case 3:
             cout << "Function in develop" << endl;
