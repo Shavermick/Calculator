@@ -1,4 +1,5 @@
 #include <iostream>
+#include "functions.h"
 
 using namespace std;
 
@@ -19,7 +20,7 @@ int main()
         switch (selectMenu) {
 
         case 1:
-             cout << "Function in develop" << endl;
+             cout << "Function Addition a = " << a << " and b = " << b << " Result: " << Addition(a,b) << endl;
             break;
         case 2:
             cout << "Function in develop" << endl;
